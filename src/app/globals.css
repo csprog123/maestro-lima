@@ -10,12 +10,13 @@ body {
   @apply bg-slate-50 text-slate-900 antialiased;
 }
 
-/* Subtle hero gradient used on the homepage. */
+/* Subtle hero gradient used on the homepage — navy tint over the cream that
+   matches the SmartFix logo lockup. */
 .hero-gradient {
   background: radial-gradient(
       1200px 400px at 80% -10%,
-      rgba(249, 115, 22, 0.18),
+      rgba(36, 59, 83, 0.14),
       transparent
     ),
-    linear-gradient(180deg, #fff7ed 0%, #ffffff 60%);
+    linear-gradient(180deg, #f4f1ea 0%, #ffffff 60%);
 }

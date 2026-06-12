@@ -9,12 +9,13 @@ const config: Config = {
     extend: {
       colors: {
         brand: {
-          DEFAULT: '#F97316',
-          50: '#FFF7ED',
-          100: '#FFEDD5',
-          500: '#F97316',
-          600: '#EA580C',
-          700: '#C2410C'
+          DEFAULT: '#243B53',
+          50: '#F0F4F8',
+          100: '#D9E2EC',
+          200: '#BCCCDC',
+          500: '#243B53',
+          600: '#1B2D40',
+          700: '#14202E'
         },
         trust: {
           DEFAULT: '#16A34A',

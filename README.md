@@ -1,4 +1,4 @@
-# Maestro — Lima Home Services Marketplace
+# SmartFix — Lima Home Service Hub
 
 A bilingual (Spanish 🇵🇪 / English) home-services marketplace prototype for Lima, Peru —
 plumbers, electricians, painters and carpenters, bookable in minutes. Built as a

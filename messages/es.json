@@ -1,6 +1,7 @@
 {
   "common": {
-    "brand": "Maestro",
+    "brand": "SmartFix",
+    "brandTagline": "Servicios para el Hogar",
     "tagline": "Servicios para el hogar en Lima",
     "currency": "S/",
     "back": "Volver",
@@ -108,7 +109,7 @@
     "title": "¿Tienes una consulta?",
     "subtitle": "Escríbenos por WhatsApp y te ayudamos al toque.",
     "cta": "Chatear por WhatsApp",
-    "prefill": "¡Hola Maestro! Tengo una consulta sobre la app."
+    "prefill": "¡Hola SmartFix! Tengo una consulta sobre la app."
   },
   "footer": {
     "madeIn": "Hecho en Lima, Perú",

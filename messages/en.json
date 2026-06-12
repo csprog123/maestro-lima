@@ -1,6 +1,7 @@
 {
   "common": {
-    "brand": "Maestro",
+    "brand": "SmartFix",
+    "brandTagline": "Home Service Hub",
     "tagline": "Home services in Lima",
     "currency": "S/",
     "back": "Back",
@@ -108,7 +109,7 @@
     "title": "Have a question?",
     "subtitle": "Message us on WhatsApp and we'll help right away.",
     "cta": "Chat on WhatsApp",
-    "prefill": "Hi Maestro! I have a question about the app."
+    "prefill": "Hi SmartFix! I have a question about the app."
   },
   "footer": {
     "madeIn": "Made in Lima, Peru",

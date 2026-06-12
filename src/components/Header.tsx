@@ -1,6 +1,7 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
 import { LanguageToggle } from './LanguageToggle';
+import { BrandMark } from './Logo';
 
 export function Header() {
   const t = useTranslations('common');
@@ -9,12 +10,15 @@ export function Header() {
   return (
     <header className="sticky top-0 z-30 border-b border-slate-200 bg-white/90 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4">
-        <Link href="/" className="flex items-center gap-2">
-          <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand text-lg font-bold text-white">
-            M
-          </span>
-          <span className="text-lg font-bold tracking-tight text-slate-900">
-            {t('brand')}
+        <Link href="/" className="flex items-center gap-2.5">
+          <BrandMark className="h-9 w-9" />
+          <span className="flex flex-col leading-none">
+            <span className="text-lg font-extrabold tracking-tight text-brand">
+              {t('brand')}
+            </span>
+            <span className="text-[10px] font-semibold uppercase tracking-wide text-slate-500">
+              {t('brandTagline')}
+            </span>
           </span>
         </Link>
 

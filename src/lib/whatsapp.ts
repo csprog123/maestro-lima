@@ -59,7 +59,7 @@ export async function sendBookingConfirmation(
 ): Promise<WhatsAppResult> {
   const serviceName = pickLocale(service.name, 'es');
   const body = [
-    `✅ ¡Tu reserva en Maestro está confirmada!`,
+    `✅ ¡Tu reserva en SmartFix está confirmada!`,
     ``,
     `Código: ${booking.id}`,
     `Servicio: ${serviceName}`,
@@ -68,7 +68,7 @@ export async function sendBookingConfirmation(
     `Dirección: ${booking.address}, ${booking.district}`,
     `Total: ${formatPrice(booking.total)}`,
     ``,
-    `${handyman.name} ya fue notificado y te contactará pronto. ¡Gracias por confiar en Maestro!`
+    `${handyman.name} ya fue notificado y te contactará pronto. ¡Gracias por confiar en SmartFix!`
   ].join('\n');
 
   return sendText(booking.customerPhone, body);
@@ -83,7 +83,7 @@ export async function sendHandymanAlert(
 ): Promise<WhatsAppResult> {
   const serviceName = pickLocale(service.name, 'es');
   const body = [
-    `🔔 Nuevo trabajo en Maestro, ${handyman.name}`,
+    `🔔 Nuevo trabajo en SmartFix, ${handyman.name}`,
     ``,
     `Servicio: ${serviceName}`,
     `Cliente: ${booking.customerName}`,
