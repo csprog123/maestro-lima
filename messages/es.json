@@ -102,6 +102,14 @@
     "you": "Tú",
     "autoReply": "¡Hola! Gracias por reservar. Llego puntual y te confirmo cuando esté en camino."
   },
+  "support": {
+    "ariaLabel": "Abrir chat de soporte por WhatsApp",
+    "close": "Cerrar",
+    "title": "¿Tienes una consulta?",
+    "subtitle": "Escríbenos por WhatsApp y te ayudamos al toque.",
+    "cta": "Chatear por WhatsApp",
+    "prefill": "¡Hola Maestro! Tengo una consulta sobre la app."
+  },
   "footer": {
     "madeIn": "Hecho en Lima, Perú",
     "demo": "Prototipo de demostración"

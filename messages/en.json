@@ -102,6 +102,14 @@
     "you": "You",
     "autoReply": "Hi! Thanks for booking. I'll arrive on time and confirm when I'm on my way."
   },
+  "support": {
+    "ariaLabel": "Open WhatsApp support chat",
+    "close": "Close",
+    "title": "Have a question?",
+    "subtitle": "Message us on WhatsApp and we'll help right away.",
+    "cta": "Chat on WhatsApp",
+    "prefill": "Hi Maestro! I have a question about the app."
+  },
   "footer": {
     "madeIn": "Made in Lima, Peru",
     "demo": "Demonstration prototype"
