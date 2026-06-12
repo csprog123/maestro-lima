@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+/* Subtle hero gradient used on the homepage. */
+.hero-gradient {
+  background: radial-gradient(
+      1200px 400px at 80% -10%,
+      rgba(249, 115, 22, 0.18),
+      transparent
+    ),
+    linear-gradient(180deg, #fff7ed 0%, #ffffff 60%);
+}

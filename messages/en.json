@@ -1,0 +1,109 @@
+{
+  "common": {
+    "brand": "Maestro",
+    "tagline": "Home services in Lima",
+    "currency": "S/",
+    "back": "Back",
+    "loading": "Loading…",
+    "from": "From",
+    "perService": "per service",
+    "rating": "rating",
+    "reviews": "reviews",
+    "jobsDone": "jobs done",
+    "verified": "Verified",
+    "language": "Language"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "howItWorks": "How it works"
+  },
+  "home": {
+    "heroTitle": "Trusted tradespeople, one tap away",
+    "heroSubtitle": "Verified plumbers, electricians, gas fitters and painters across Lima. Book in minutes and pay securely.",
+    "heroCta": "Explore services",
+    "trustVerified": "Verified pros",
+    "trustVerifiedDesc": "Background-checked and skill-verified.",
+    "trustPrice": "Clear pricing",
+    "trustPriceDesc": "No surprises. Know the cost before you book.",
+    "trustGuarantee": "Service guarantee",
+    "trustGuaranteeDesc": "We stand behind every job done.",
+    "categoriesTitle": "What do you need today?",
+    "popularTitle": "Top-rated pros",
+    "howTitle": "How it works",
+    "step1Title": "Pick the service",
+    "step1Desc": "Choose the category and the job you need.",
+    "step2Title": "Book your pro",
+    "step2Desc": "Select date, time and confirm in minutes.",
+    "step3Title": "Done and guaranteed",
+    "step3Desc": "Get a WhatsApp confirmation and pay securely."
+  },
+  "catalogue": {
+    "title": "{trade} services",
+    "subtitle": "Pick the job and we'll show you the available pros.",
+    "selectService": "Select a service",
+    "availableHandymen": "Available pros",
+    "noHandymen": "No pros are available for this service right now.",
+    "book": "Book"
+  },
+  "handyman": {
+    "about": "About the pro",
+    "specialties": "Specialties",
+    "serviceArea": "Service area",
+    "reviewsTitle": "Customer reviews",
+    "noReviews": "No reviews yet.",
+    "bookNow": "Book now",
+    "yearsExperience": "{years} years of experience",
+    "respondsIn": "Responds in {minutes} min"
+  },
+  "checkout": {
+    "title": "Confirm your booking",
+    "service": "Service",
+    "handyman": "Pro",
+    "yourDetails": "Your details",
+    "name": "Full name",
+    "namePlaceholder": "e.g. Ana Quispe",
+    "phone": "Mobile (WhatsApp)",
+    "phonePlaceholder": "e.g. 999 888 777",
+    "address": "Address",
+    "addressPlaceholder": "e.g. Av. Larco 345, Miraflores",
+    "district": "District",
+    "date": "Date",
+    "time": "Time",
+    "notes": "Notes for the pro (optional)",
+    "notesPlaceholder": "Describe the problem or access details…",
+    "summary": "Summary",
+    "servicePrice": "Service price",
+    "platformFee": "Platform fee",
+    "total": "Total",
+    "payWith": "Pay with Culqi",
+    "confirmBooking": "Confirm booking",
+    "processing": "Processing…",
+    "required": "This field is required",
+    "invalidPhone": "Enter a valid 9-digit mobile number"
+  },
+  "confirmation": {
+    "title": "Booking confirmed!",
+    "subtitle": "We sent the details to your WhatsApp at {phone}.",
+    "bookingId": "Booking code",
+    "whenTitle": "When",
+    "whoTitle": "Your pro",
+    "whereTitle": "Where",
+    "totalPaid": "Total paid",
+    "chatCta": "Chat with your pro",
+    "homeCta": "Back to home",
+    "whatsappNote": "The pro received a WhatsApp alert and will confirm shortly."
+  },
+  "chat": {
+    "title": "Chat with {name}",
+    "subtitle": "Coordinate the details of your service",
+    "placeholder": "Type a message…",
+    "send": "Send",
+    "you": "You",
+    "autoReply": "Hi! Thanks for booking. I'll arrive on time and confirm when I'm on my way."
+  },
+  "footer": {
+    "madeIn": "Made in Lima, Peru",
+    "demo": "Demonstration prototype"
+  }
+}

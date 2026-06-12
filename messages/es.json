@@ -1,0 +1,109 @@
+{
+  "common": {
+    "brand": "Maestro",
+    "tagline": "Servicios para el hogar en Lima",
+    "currency": "S/",
+    "back": "Volver",
+    "loading": "Cargando…",
+    "from": "Desde",
+    "perService": "por servicio",
+    "rating": "calificación",
+    "reviews": "reseñas",
+    "jobsDone": "trabajos realizados",
+    "verified": "Verificado",
+    "language": "Idioma"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "howItWorks": "Cómo funciona"
+  },
+  "home": {
+    "heroTitle": "Maestros de confianza, a un toque de distancia",
+    "heroSubtitle": "Plomeros, electricistas, gasfiteros y pintores verificados en toda Lima. Reserva en minutos y paga seguro.",
+    "heroCta": "Explorar servicios",
+    "trustVerified": "Maestros verificados",
+    "trustVerifiedDesc": "Antecedentes revisados y oficio comprobado.",
+    "trustPrice": "Precios claros",
+    "trustPriceDesc": "Sin sorpresas. Conoce el costo antes de reservar.",
+    "trustGuarantee": "Garantía de servicio",
+    "trustGuaranteeDesc": "Respaldamos cada trabajo realizado.",
+    "categoriesTitle": "¿Qué necesitas hoy?",
+    "popularTitle": "Maestros mejor calificados",
+    "howTitle": "Cómo funciona",
+    "step1Title": "Elige el servicio",
+    "step1Desc": "Selecciona la categoría y el trabajo que necesitas.",
+    "step2Title": "Reserva tu maestro",
+    "step2Desc": "Escoge fecha, hora y confirma en minutos.",
+    "step3Title": "Listo y garantizado",
+    "step3Desc": "Recibe confirmación por WhatsApp y paga seguro."
+  },
+  "catalogue": {
+    "title": "Servicios de {trade}",
+    "subtitle": "Elige el trabajo y te mostramos a los maestros disponibles.",
+    "selectService": "Selecciona un servicio",
+    "availableHandymen": "Maestros disponibles",
+    "noHandymen": "No hay maestros disponibles para este servicio por ahora.",
+    "book": "Reservar"
+  },
+  "handyman": {
+    "about": "Sobre el maestro",
+    "specialties": "Especialidades",
+    "serviceArea": "Zona de cobertura",
+    "reviewsTitle": "Reseñas de clientes",
+    "noReviews": "Aún no hay reseñas.",
+    "bookNow": "Reservar ahora",
+    "yearsExperience": "{years} años de experiencia",
+    "respondsIn": "Responde en {minutes} min"
+  },
+  "checkout": {
+    "title": "Confirma tu reserva",
+    "service": "Servicio",
+    "handyman": "Maestro",
+    "yourDetails": "Tus datos",
+    "name": "Nombre completo",
+    "namePlaceholder": "Ej. Ana Quispe",
+    "phone": "Celular (WhatsApp)",
+    "phonePlaceholder": "Ej. 999 888 777",
+    "address": "Dirección",
+    "addressPlaceholder": "Ej. Av. Larco 345, Miraflores",
+    "district": "Distrito",
+    "date": "Fecha",
+    "time": "Hora",
+    "notes": "Notas para el maestro (opcional)",
+    "notesPlaceholder": "Describe el problema o detalles de acceso…",
+    "summary": "Resumen",
+    "servicePrice": "Precio del servicio",
+    "platformFee": "Comisión de plataforma",
+    "total": "Total",
+    "payWith": "Pagar con Culqi",
+    "confirmBooking": "Confirmar reserva",
+    "processing": "Procesando…",
+    "required": "Este campo es obligatorio",
+    "invalidPhone": "Ingresa un celular válido de 9 dígitos"
+  },
+  "confirmation": {
+    "title": "¡Reserva confirmada!",
+    "subtitle": "Te enviamos los detalles por WhatsApp al {phone}.",
+    "bookingId": "Código de reserva",
+    "whenTitle": "Cuándo",
+    "whoTitle": "Tu maestro",
+    "whereTitle": "Dónde",
+    "totalPaid": "Total pagado",
+    "chatCta": "Chatear con el maestro",
+    "homeCta": "Volver al inicio",
+    "whatsappNote": "El maestro recibió una alerta por WhatsApp y confirmará pronto."
+  },
+  "chat": {
+    "title": "Chat con {name}",
+    "subtitle": "Coordina los detalles de tu servicio",
+    "placeholder": "Escribe un mensaje…",
+    "send": "Enviar",
+    "you": "Tú",
+    "autoReply": "¡Hola! Gracias por reservar. Llego puntual y te confirmo cuando esté en camino."
+  },
+  "footer": {
+    "madeIn": "Hecho en Lima, Perú",
+    "demo": "Prototipo de demostración"
+  }
+}
